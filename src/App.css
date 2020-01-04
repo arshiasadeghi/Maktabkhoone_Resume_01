@@ -1,0 +1,118 @@
+html,body{
+  font-family: 'Montserrat', sans-serif;
+}
+.first{
+  color:white;
+}
+
+.fullpage{
+  height:100vh;
+  width:100vw;
+  display:flex;
+  flex:auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  padding-right: 40px;
+  padding-left: 40px;
+}
+.second{
+  background-color: #ffff59;
+}
+.third{
+  background-color:#c0c0c0;
+}
+h3{
+  font-size: 3rem;
+}
+.card-wrapper{
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.image-wrapper{
+  width:110px;
+  height:90px;
+  text-align:center;
+  padding:5px;
+}
+img{
+  max-width: 100%;
+  max-height:100%;
+}
+.skill-title-wrapper{
+  padding:5px;
+  height:100px;
+  width:110px;
+  display:flex;
+  flex-direction: column;
+  align-content:center;
+  justify-content: flex-end;
+}
+h4{
+  margin:0;
+  font-size: 20px;
+}
+.card{
+  display:flex;
+  flex-direction:column;
+  align-items: flex-start;
+  justify-content: center;
+  height:200px;
+  width:120px;
+  background-color: white;
+  margin: 10px;
+  cursor: pointer;
+}
+.fullpage{
+  height:100vh;
+  width:100vw;
+  display:flex;
+  flex:auto;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  cursor: pointer;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

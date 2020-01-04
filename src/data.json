@@ -1,0 +1,55 @@
+{
+    "title":"Hello I Am Arshia Sadeghi",
+    "subtitle":"full stack | half stack",
+    "links":{
+        "stackoverflow":"https://stackoverflow.com/story/iamarshia"
+    },
+    "sections":[
+        {
+            "title":"about",
+            "items":[
+                {
+                    "type":"p",
+                    "content":"I have created a few JavaScript and React libraries (180k+ npm downloads)."
+                }
+            ]
+        },
+        {
+            "title":"Skills",
+            "items":[
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"./images/react.png",
+                        "title":"react"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"./images/javascript.png",
+                        "title":"javascript"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"./images/html-5.png",
+                        "title":"html"
+                    }
+                },
+                {
+                    "type":"card",
+                    "content":{
+                        "image":"./images/css-3.png",
+                        "title":"CSS"
+                    }
+                }
+
+            ]
+        }
+    ],
+    "icons":{
+        "down":"images/down.png"
+    }
+}
