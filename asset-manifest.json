@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/arshiasadeghi/resume01/static/css/main.37284412.chunk.css",
-    "main.js": "/arshiasadeghi/resume01/static/js/main.8b21e280.chunk.js",
-    "main.js.map": "/arshiasadeghi/resume01/static/js/main.8b21e280.chunk.js.map",
-    "runtime-main.js": "/arshiasadeghi/resume01/static/js/runtime-main.9cd14048.js",
-    "runtime-main.js.map": "/arshiasadeghi/resume01/static/js/runtime-main.9cd14048.js.map",
-    "static/js/2.9b31e940.chunk.js": "/arshiasadeghi/resume01/static/js/2.9b31e940.chunk.js",
-    "static/js/2.9b31e940.chunk.js.map": "/arshiasadeghi/resume01/static/js/2.9b31e940.chunk.js.map",
-    "index.html": "/arshiasadeghi/resume01/index.html",
-    "precache-manifest.3f3c2c474e379b255d0f9d0456fcb1b1.js": "/arshiasadeghi/resume01/precache-manifest.3f3c2c474e379b255d0f9d0456fcb1b1.js",
-    "service-worker.js": "/arshiasadeghi/resume01/service-worker.js",
-    "static/css/main.37284412.chunk.css.map": "/arshiasadeghi/resume01/static/css/main.37284412.chunk.css.map",
-    "static/js/2.9b31e940.chunk.js.LICENSE": "/arshiasadeghi/resume01/static/js/2.9b31e940.chunk.js.LICENSE",
-    "static/media/logo.svg": "/arshiasadeghi/resume01/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Maktabkhoone_Resume_01/static/css/main.37284412.chunk.css",
+    "main.js": "/Maktabkhoone_Resume_01/static/js/main.08999870.chunk.js",
+    "main.js.map": "/Maktabkhoone_Resume_01/static/js/main.08999870.chunk.js.map",
+    "runtime-main.js": "/Maktabkhoone_Resume_01/static/js/runtime-main.134812c3.js",
+    "runtime-main.js.map": "/Maktabkhoone_Resume_01/static/js/runtime-main.134812c3.js.map",
+    "static/js/2.99435526.chunk.js": "/Maktabkhoone_Resume_01/static/js/2.99435526.chunk.js",
+    "static/js/2.99435526.chunk.js.map": "/Maktabkhoone_Resume_01/static/js/2.99435526.chunk.js.map",
+    "index.html": "/Maktabkhoone_Resume_01/index.html",
+    "precache-manifest.c52adf087627215b54cef7afec738c2f.js": "/Maktabkhoone_Resume_01/precache-manifest.c52adf087627215b54cef7afec738c2f.js",
+    "service-worker.js": "/Maktabkhoone_Resume_01/service-worker.js",
+    "static/css/main.37284412.chunk.css.map": "/Maktabkhoone_Resume_01/static/css/main.37284412.chunk.css.map",
+    "static/js/2.99435526.chunk.js.LICENSE": "/Maktabkhoone_Resume_01/static/js/2.99435526.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Maktabkhoone_Resume_01/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cd14048.js",
-    "static/js/2.9b31e940.chunk.js",
+    "static/js/runtime-main.134812c3.js",
+    "static/js/2.99435526.chunk.js",
     "static/css/main.37284412.chunk.css",
-    "static/js/main.8b21e280.chunk.js"
+    "static/js/main.08999870.chunk.js"
   ]
 }
